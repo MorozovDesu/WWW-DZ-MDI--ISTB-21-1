@@ -175,7 +175,7 @@ border-radius: 15px;
 .cont span {
     
     font-size: 29px;
-    margin-right: 50px;
+    margin-right: 10px;
 }
 @media (max-width: 1020px) {
     .cont span {
